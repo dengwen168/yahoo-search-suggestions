@@ -73,13 +73,3 @@ while 1:
     yahoo.get_search_suggest(line,tfile)
     time.sleep(1)
 f.close()
-
-
-
-    
-
-
-
-
-
-
